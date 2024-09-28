@@ -52,6 +52,9 @@ pip install PyQt5 cryptography pyperclip
 - **`password-generator.py`**: Het hoofdscript voor de wachtwoordgenerator.
 - **`instance/`**: Map waarin de versleutelde wachtwoorden en de sleutel worden opgeslagen.
 - **`README.md`**: Deze documentatie.
+- **`password-generator.exe`**: Het uitvoerbare bestand voor de wachtwoordgenerator, te gebruiken als je geen Python geïnstalleerd hebt.
+
+
 
 
 ## Probleemoplossing

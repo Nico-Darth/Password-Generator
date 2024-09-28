@@ -24,7 +24,7 @@ Je kunt deze installeren met pip:
 
 ```bash
 pip install PyQt5 cryptography pyperclip
- 
+```
 
 ## Gebruik
 
